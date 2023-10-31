@@ -1,0 +1,12 @@
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\bin\Debug\DataLayer.dll.config
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\bin\Debug\DataLayer.dll
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\bin\Debug\DataLayer.pdb
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\bin\Debug\EntityFramework.dll
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\bin\Debug\EntityFramework.xml
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\obj\Debug\DataLayer.dll
+E:\workspace\Dang tung\QLCuaHangTienLoi\DataLayer\obj\Debug\DataLayer.pdb
